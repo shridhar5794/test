@@ -1,3 +1,1 @@
-def x():
-    print("hi")
-x()
+print('cxx')
